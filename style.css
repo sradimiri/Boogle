@@ -1,0 +1,66 @@
+.navigation {
+    background-color: #489BE5;
+    height: 20px;
+    width: auto;
+}
+
+#link{
+    float: right;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.search {
+    display: block;
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.terms {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 20px;
+}
+
+.signin-block {
+    position: relative;
+    top: 50px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+.account-text {
+    color: #0E10C4;
+    font-size: 25px;
+    text-align: center;
+}
+
+.signin-text {
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.account-wall {
+    margin-top: 20px;
+    padding: 40px 0px 20px 0px;
+    background-color: #f7f7f7;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.img {
+    margin: 0 auto 10px;
+    display: block;
+    }
+
